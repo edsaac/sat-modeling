@@ -1,0 +1,18 @@
+figure.facecolor : None
+axes.labelsize : 14
+axes.labelweight : 200
+axes.titleweight : 400
+axes.labelpad : 5.0
+axes.facecolor : white
+legend.fontsize : 11
+axes.edgecolor : dimgray
+axes.spines.top : False
+axes.spines.right : False
+lines.linewidth: 2
+axes.prop_cycle: cycler('color', ['k','1f77b4', 'ff7f0e', '2ca02c', 'd62728', '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
+
+axes.linewidth:      0.5
+xtick.color:         dimgray   
+xtick.labelcolor:    dimgray 
+ytick.color:         dimgray   
+ytick.labelcolor:    dimgray 
